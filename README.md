@@ -18,13 +18,13 @@
 
 <div align="right">
   <h3>Connect with me!</h3>
-  <a href="https://instagram.com/luisaabreu" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/luisaabreuh" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:luisa.fontesabreu@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:luisa.fontesabreu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luisa-fontes" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/luisa-fontes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
