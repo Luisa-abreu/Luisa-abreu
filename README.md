@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Luisa-abreu"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisa-abreu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisa-abreu&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisa-abreu&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisa-abreu&layout=compact&langs_count=16&theme=moltack"/>
 </div>
 
 <div><br>
