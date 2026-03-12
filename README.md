@@ -1,6 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.5&pause=1000&color=FF005A&center=true&vCenter=true&width=435&lines=Hello!+I'm+Lu%C3%ADsa." alt="Typing SVG" /></a>
-</div>
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na UNIFESO. Atualmente estudando JavaScript.
 
 <div align="center">
