@@ -1,4 +1,5 @@
 <h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas na UNIFESO.
+<h2>Residente em TIC/Software na SERRATEC - Parque Tecnológico da Região Serrana RJ </h2>
 
 <div><br>
   <h3 align="left">My Stack:</h3>
