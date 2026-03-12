@@ -1,6 +1,6 @@
 <h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas na UNIFESO.  <br> Residente em TIC/Software na SERRATEC - Parque Tecnológico da Região Serrana RJ </h2>
 
-<div><br>
+<div>
   <h3 align="left">My Stack:</h3>
   <img align="center" alt="Luisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
