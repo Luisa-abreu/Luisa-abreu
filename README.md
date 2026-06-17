@@ -2,9 +2,16 @@
 
 <div>
   <h3 align="left">My Stack:</h3>
-  <img align="center" alt="Luisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 </div>
 
 <div align="right">
